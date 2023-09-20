@@ -36,3 +36,5 @@ export{
     formatearDinero,
     calcularTotalPagar
 }
+
+console.log('Me falto este console');
